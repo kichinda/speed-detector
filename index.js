@@ -6,7 +6,7 @@ form.addEventListener("submit", (event) =>{
     event.preventDefault();
     checkSpeed(input) 
 });
-
+//checks the speed input and verify it by providing points to speed less than 70
 function checkSpeed(input){
     console.log(input)
     console.log(input.value)
