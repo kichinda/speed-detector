@@ -5,5 +5,7 @@ past 12 point the users' licence will be canceled.
 
       USAGE
 Input your speed to check out the speed detector response.
-   AUTHOR
+
+
+         AUTHOR
    kichinda jesse
